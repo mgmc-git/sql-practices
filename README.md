@@ -1,2 +1,3 @@
 # sql-practices
-SQL practices goes here
+
+A variety of SQL practices from different sources
